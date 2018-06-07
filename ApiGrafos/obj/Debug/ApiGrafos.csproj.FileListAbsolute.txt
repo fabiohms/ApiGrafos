@@ -1,1 +1,10 @@
 c:\users\lima.000\documents\visual studio 2013\Projects\ApiGrafos\ApiGrafos\bin\Debug\ApiGrafos.exe.config
+C:\Users\Lima.000\documents\visual studio 2013\Projects\ApiGrafos\ApiGrafos\obj\Debug\ApiGrafos.csprojResolveAssemblyReference.cache
+C:\Users\Lima.000\documents\visual studio 2013\Projects\ApiGrafos\ApiGrafos\obj\Debug\ApiGrafos.Properties.Resources.resources
+C:\Users\Lima.000\documents\visual studio 2013\Projects\ApiGrafos\ApiGrafos\obj\Debug\ApiGrafos.Form1.resources
+C:\Users\Lima.000\documents\visual studio 2013\Projects\ApiGrafos\ApiGrafos\obj\Debug\ApiGrafos.Views.FormAdj.resources
+C:\Users\Lima.000\documents\visual studio 2013\Projects\ApiGrafos\ApiGrafos\obj\Debug\ApiGrafos.csproj.GenerateResource.Cache
+C:\Users\Lima.000\documents\visual studio 2013\Projects\ApiGrafos\ApiGrafos\bin\Debug\ApiGrafos.exe
+C:\Users\Lima.000\documents\visual studio 2013\Projects\ApiGrafos\ApiGrafos\bin\Debug\ApiGrafos.pdb
+C:\Users\Lima.000\documents\visual studio 2013\Projects\ApiGrafos\ApiGrafos\obj\Debug\ApiGrafos.exe
+C:\Users\Lima.000\documents\visual studio 2013\Projects\ApiGrafos\ApiGrafos\obj\Debug\ApiGrafos.pdb

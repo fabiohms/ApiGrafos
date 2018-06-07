@@ -6,29 +6,28 @@ using System.Threading.Tasks;
 
 namespace ApiGrafos.Model
 {
-    class Grafo
+    public class Grafo
     {
-        private List<string> vertices;
+        private int numVertices;
+        private string name;
+        private List<int> vertices;
+        private List<List<int>> VerticeAdj = new List<List<int>>();
 
         public Grafo() {
-            this.vertices = new List<Vertice>();
-        }
-        public Grafo(List<Vertice> v){
-            this.vertices = v;
+            
         }
 
-        public void setVertice(List<Vertice> v)
-        {
-            this.vertices = v;
-        }
-        public List<Vertice> getVertice()
-        {
-            return this.vertices;
-        }
+        public void setName(string n){ this.name = n;}
+        public void setlistVertice(List<int> listvert) { this.VerticeAdj.Add(listvert); }
+
+        public List<List<int>> getlistVertice() { return this.VerticeAdj; }
+        public void setVertice(int v){this.numVertices = v;}
+
+        public int getVertice(){return this.numVertices;}
+
+
         public void addVertice(string v)
         {
-
-            vertices.Add(v);
         }
     }
 }
