@@ -1,0 +1,7 @@
+C:\unit-testing-using-nunit\ApiGrafos\obj\Debug\netstandard2.0\ApiGrafos.ApiGrafos.Properties.Resources.resources
+C:\unit-testing-using-nunit\ApiGrafos\obj\Debug\netstandard2.0\ApiGrafos.ApiGrafos.Views.Form1.resources
+C:\unit-testing-using-nunit\ApiGrafos\obj\Debug\netstandard2.0\ApiGrafos.ApiGrafos.Views.FormAdj.resources
+C:\unit-testing-using-nunit\ApiGrafos\obj\Debug\netstandard2.0\ApiGrafos.csproj.GenerateResource.cache
+C:\unit-testing-using-nunit\ApiGrafos\obj\Debug\netstandard2.0\ApiGrafos.csproj.CoreCompileInputs.cache
+C:\unit-testing-using-nunit\ApiGrafos\obj\Debug\netstandard2.0\ApiGrafos.AssemblyInfoInputs.cache
+C:\unit-testing-using-nunit\ApiGrafos\obj\Debug\netstandard2.0\ApiGrafos.AssemblyInfo.cs

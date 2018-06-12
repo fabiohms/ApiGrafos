@@ -39,7 +39,6 @@ namespace ApiGrafos
 
         }
 
-
         public bool ValidaListaAdj(string lista, int numVert)
         {
             bool val = true;
@@ -83,11 +82,11 @@ namespace ApiGrafos
             return valida;
         }
 
-        public int getGrau(Vertice v1)
+        public bool getGrau(Vertice v1)
         {
 
             bool valida = false;
-            int i = 0;
+           
             List<List<int>> list = gAtual.getlistVertice();
             int[] inVertices = new int[2];
             // List<int> ListaAdjValida = list.Split(',').Select(Int32.Parse).ToList();
@@ -111,8 +110,7 @@ namespace ApiGrafos
                     }
                 }
             }
-
-            return i;
+            return valida;
         }
 
         public bool isRegular(Grafo G)

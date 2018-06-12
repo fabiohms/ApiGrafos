@@ -8,3 +8,6 @@ C:\Users\Lima.000\documents\visual studio 2013\Projects\ApiGrafos\ApiGrafos\bin\
 C:\Users\Lima.000\documents\visual studio 2013\Projects\ApiGrafos\ApiGrafos\bin\Debug\ApiGrafos.pdb
 C:\Users\Lima.000\documents\visual studio 2013\Projects\ApiGrafos\ApiGrafos\obj\Debug\ApiGrafos.exe
 C:\Users\Lima.000\documents\visual studio 2013\Projects\ApiGrafos\ApiGrafos\obj\Debug\ApiGrafos.pdb
+C:\unit-testing-using-nunit\ApiGrafos\ApiGrafos\bin\Debug\ApiGrafos.exe.config
+C:\unit-testing-using-nunit\ApiGrafos\ApiGrafos\obj\Debug\ApiGrafos.exe
+C:\unit-testing-using-nunit\ApiGrafos\ApiGrafos\obj\Debug\ApiGrafos.pdb
